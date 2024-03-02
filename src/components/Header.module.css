@@ -1,0 +1,19 @@
+.container{
+    margin: 50px;
+    text-align: center;
+}
+
+.container h1{
+    color: #004bf0;
+}
+
+a{
+    font-weight: bold;
+    color: #0097f0;
+    text-decoration: none;
+    transition: 0.2s all ease-in-out;
+}
+
+a:hover{
+    color: #0060a4;
+}
